@@ -1,0 +1,17 @@
+# Site settings
+title: Elliot Holland Blog
+email: 
+description: "Welcome to my blog."
+baseurl: ""
+url: "http://eholland23.github.io"
+github_username:  eholland23
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
